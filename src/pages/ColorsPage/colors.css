@@ -1,0 +1,26 @@
+.colorsPage {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.colorsList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.colorBox {
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.searchContainer {
+    width: 30%;
+    display: flex;
+    align-items: center;
+}

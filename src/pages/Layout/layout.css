@@ -5,12 +5,14 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 30px;
+    overflow: hidden;
 }
 
 footer {
     display: flex;
     justify-content: center;
-    position: fixed;
+    align-items: center;
+    position: sticky;
     left: 0;
     bottom: 0;
     width: 100%;

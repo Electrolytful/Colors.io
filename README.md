@@ -11,12 +11,10 @@
 - Your app should have some styling
 
 ## Todo:
-1. finish homepage
-2. make colors page with list of availale colors (searchbar and filter functionality to be added)
-3. make color page with specific color loaded dynamically on user click
-4. make button that takes user to form page to create new color
-5. make form sumit redirect to colors page
-6. make redirect to colors index page on wrong url
-7. make redirect to error page when user tries to visit invalid url
-8. finish css styling
-9. make a nice README
+1. make color page with specific color loaded dynamically on user click
+2. make button that takes user to form page to create new color
+3. make form submit redirect to colors page
+4. make redirect to colors index page on wrong url
+5. make redirect to error page when user tries to visit invalid url
+6. finish css styling
+7. make a nice README

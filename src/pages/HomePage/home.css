@@ -22,6 +22,7 @@
 .color-box {
     margin-top: -150px;
     border-radius: 15px;
+    cursor: pointer;
 }
 
 .buttons-container {
